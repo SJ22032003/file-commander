@@ -1,0 +1,12 @@
+{
+  "name": "file-commander",
+  "version": "1.0.0",
+  "description": "run commands from simple txt file",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shobhit Jaryal",
+  "license": "ISC"
+}
